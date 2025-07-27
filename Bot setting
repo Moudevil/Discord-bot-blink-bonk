@@ -1,0 +1,14 @@
+SETTINGS = {
+    'command_prefix': '!',
+    'update_interval_minutes': 30,
+    'max_news_per_category': 3,
+    'max_embed_description_length': 200,
+    'default_color': 0x0099FF,
+    'colors': {
+        'crypto': 0xF7931A,    # Bitcoin orange
+        'stock': 0x00FF00,     # Green
+        'finance': 0x0099FF,   # Blue
+        'error': 0xFF0000,     # Red
+        'success': 0x00FF00    # Green
+    }
+}
