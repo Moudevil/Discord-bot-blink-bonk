@@ -1,0 +1,6 @@
+if [ -z "$DISCORD_BOT_TOKEN" ]; then
+    echo "❌ ERROR: DISCORD_BOT_TOKEN environment variable not set!"
+    exit 1
+fi
+
+echo "✅ Environment variables checked"
