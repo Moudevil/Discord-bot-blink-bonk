@@ -1,0 +1,10 @@
+EMBED_TEMPLATES = {
+    'news': {
+        'footer_text': '📈 Finance News Bot | Edukasi Gratis',
+        'footer_icon': 'https://cdn.discordapp.com/embed/avatars/0.png'
+    },
+    'help': {
+        'title': '📈 Finance News Bot - Panduan',
+        'description': 'Bot edukasi keuangan gratis untuk komunitas'
+    }
+}
