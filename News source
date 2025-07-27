@@ -1,0 +1,10 @@
+NEWS_SOURCES = {
+    'crypto': [
+        'https://api.coindesk.com/v1/news/articles.json',
+        'https://min-api.cryptocompare.com/data/v2/news/?lang=EN'
+    ],
+    'stocks': [
+        f'https://financialmodelingprep.com/api/v3/stock_news?page=0&apikey={FMP_API_KEY}',
+        f'https://www.alphavantage.co/query?function=NEWS_SENTIMENT&apikey={ALPHA_VANTAGE_KEY}'
+    ]
+}
