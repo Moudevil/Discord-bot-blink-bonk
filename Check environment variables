@@ -1,4 +1,4 @@
-if [ -z "$DISCORD_BOT_TOKEN" ]; then
+if [ -z "$MTM5ODkzNTgzMTg0MjEyNzkwMg.GZt6sA._CSjFX8lsuLxFD06YzzY_rnNOFkyHmAni4_d_8" ]; then
     echo "❌ ERROR: DISCORD_BOT_TOKEN environment variable not set!"
     exit 1
 fi
