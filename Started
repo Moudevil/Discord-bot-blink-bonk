@@ -1,0 +1,2 @@
+echo "🤖 Starting bot..."
+python bot.py
